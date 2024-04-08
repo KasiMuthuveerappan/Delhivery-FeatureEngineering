@@ -13,8 +13,8 @@
 - As the largest fully integrated player in India by revenue in Fiscal 2021, Delhivery aims to lead the industry by pioneering the commerce operating system, driven by top-tier infrastructure, logistics operations, and innovative data intelligence initiatives led by its Data team.
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python]()
-- You can access the complete Casestudy in pdf format here - [Report]()
+- You can access the complete Case python file here - [Python](https://github.com/KasiMuthuveerappan/Delhivery-FeatureEngineering/blob/main/K-Analysis/Delhivery-k-analysis-Mastercopy.ipynb)
+- You can access the complete Casestudy in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Delhivery-FeatureEngineering/blob/main/K-Analysis/Delhivery-K-Analysis-MasterCopy.pdf)
 
     
 ----
