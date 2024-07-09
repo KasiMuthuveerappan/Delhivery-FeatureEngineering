@@ -80,7 +80,7 @@ The company wants to understand and process the data coming out of data engineer
 
 ----
 
-# 💡Here's a structured update solution using the Situation, Task, Action, Result (STAR) format based on the insights and recommendations provided:
+## 💡STAR format based on the insights and recommendations provided:
 
 ### Situation
 Delhivery, aiming to establish itself as a premier player in the logistics industry, identified the need to optimize operations and enhance efficiency across key routes and operational processes.
